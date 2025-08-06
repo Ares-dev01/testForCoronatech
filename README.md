@@ -43,9 +43,9 @@ java -jar taskTest.jar -a -f input1.txt input2.txt
   - Нажмите Win + R, введите cmd, затем Enter
     
 2. Перейдите в папку с программой
-  - Введите команду (замените C:\path\to\folder на ваш путь):
+  - Введите команду (замените C:\folder на ваш путь):
     ```bash
-      cd C:\path\to\folder
+      cd C:\folder\testForCoronatech\out\artifacts\taskTest_jar
     ```
 3. Запустите программу (см. Примеры комбинаций)
    
@@ -56,3 +56,4 @@ java -jar taskTest.jar -a -f input1.txt input2.txt
       - **floats.txt**
       - **strings.txt**
     - **Статистика будет выведена в консоль.**
+
